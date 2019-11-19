@@ -11,7 +11,7 @@ The console application takes following parameters:
 - **X:** Takes X value of Projeted coordinate system.
 - **Y:** Takes Y value of Projeted coordinate system.
 		
-For Image coordinate system, upper left corner of the image is origin. i value increases from left to right, j value increases to from up to bottom. Projection coordinate system parameters are stored in Geotiff. Generally, while X value is increasing from left to right, Y values increase from bottom to up side of the image.
+For Image coordinate system, upper left corner of the image is origin. i value increases from left to right, j value increases from up to bottom. Projection coordinate system parameters are stored in Geotiff. Generally, while X value is increasing from left to right, Y values increase from bottom to up side of the image.
 		
 ### **Examples**
 After compilation of the code, executable program can be run with following parameteres from console.
