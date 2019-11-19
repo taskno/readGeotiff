@@ -1,10 +1,3 @@
-main.cpp
-Dün
-Sal 19:49
-t
-Bir öğe yüklediniz
-Metin
-main.cpp
 #include "GdalGeotiff.h"
 #include <cstring>
 #include <limits>
