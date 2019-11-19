@@ -2,10 +2,10 @@
 Read Geotiff using Gdal C++ API and get value with specified band no, image or projection coordinate parameters.
 
 **Parameter Description**  
-The console application takes following parameters:
-		
-		`input:` Takes name or full path of input Geotiff file.
-		`bandNo:` Takes band number of input Geotiff to get value from.
+The console application takes following parameters:	
+ss
+		**input:** Takes name or full path of input Geotiff file.
+		bandNo: Takes band number of input Geotiff to get value from.
 		i: Takes i value of Image coordinate system.
 		j: Takes j value of Image coordinate system.
 		X: Takes X value of Projeted coordinate system.
