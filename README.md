@@ -1,7 +1,7 @@
 # Read Geotiff with GDAL
 Read Geotiff using Gdal C++ API and get value with specified band no, image or projection coordinate parameters.
 
-##**Parameter Description**  
+## **Parameter Description**  
 The console application takes following parameters:	
 
 **input:** Takes name or full path of input Geotiff file.
@@ -13,7 +13,7 @@ The console application takes following parameters:
 		
 For Image coordinate system, upper left corner of the image is origin. i value increases from left to right, j value increases to from up to bottom. Projection coordinate system parameters are stored in Geotiff. Generally, while X value is increasing from left to right, Y values increase from bottom to up side of the image.
 		
-##**Examples**
+## **Examples**
 After compilation of the code, executable program can be run with following parameteres from console.
 
 With projection coordinates:
@@ -24,5 +24,5 @@ With pixel coordinates:
 
 	yourBinary.exe input:sample.tif i:10 j:15 bandNo:2
 
-##**Author**  
+## **Author**  
 	Taşkın Özkan
