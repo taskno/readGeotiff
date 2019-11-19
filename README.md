@@ -6,3 +6,6 @@ Read Geotiff using Gdal C++ API and get value with specified band no, image or p
   
   input: Takes name or full path of input Geotiff file.
   
+**Author**  
+	Taşkın Özkan 
+	Contact: taskinozkn@gmail.com
