@@ -20,7 +20,7 @@ Using projection coordinates:
 
 	yourBinary.exe input:/../sample.tif X:432109.876 Y:4567890.987 bandNo:1
 
-Using pixel coordinates:
+Using image coordinates:
 
 	yourBinary.exe input:sample.tif i:10 j:15 bandNo:2
 
