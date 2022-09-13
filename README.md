@@ -23,6 +23,3 @@ Using projection coordinates:
 Using image coordinates:
 
 	yourBinary.exe input:sample.tif i:10 j:15 bandNo:2
-
-### **Author**  
-Taşkın Özkan
